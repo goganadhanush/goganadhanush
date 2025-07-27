@@ -23,3 +23,10 @@ Enthusiastic about Competitive Programming, problem-solving and exploring new te
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gogana%20Dhanush-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gogana-dhanush-83965b319)
 [![GitHub](https://img.shields.io/badge/GitHub-goganadhanush-black?style=flat&logo=github&logoColor=white)](https://github.com/goganadhanush)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goganadhanush&show_icons=true&theme=tokyonight" alt="Dhanush's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goganadhanush&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
