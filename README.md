@@ -26,7 +26,13 @@ Enthusiastic about Competitive Programming, problem-solving and exploring new te
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goganadhanush&show_icons=true&theme=tokyonight" alt="Dhanush's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goganadhanush&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
+
+![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goganadhanush&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide=issues)
+
+![Dhanush's GitHub Streak](https://streak-stats.demolab.com/?user=goganadhanush&theme=tokyonight&fire=FF7F50)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goganadhanush&layout=compact&theme=tokyonight)
+
+</div>
+
