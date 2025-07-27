@@ -19,10 +19,11 @@ Enthusiastic about Competitive Programming, problem-solving and exploring new te
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## ⚡️ Where to find me
+## ⚡ Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gogana%20Dhanush-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gogana-dhanush-83965b319)
-[![GitHub](https://img.shields.io/badge/GitHub-goganadhanush-black?style=flat&logo=github&logoColor=white)](https://github.com/goganadhanush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gogana%20Dhanush-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/goganadhanush)
+[![GitHub](https://img.shields.io/badge/GitHub-goganadhanush-black?logo=github&style=for-the-badge)](https://github.com/goganadhanush)
+
 
 ## 📊 GitHub Stats
 
