@@ -1,4 +1,4 @@
-# Hi, I’m Gogana Dhanush
+# About me
 
 I'm Dhanush, a second-year B.Tech student in Cse 🌐 Passionate about web development and building a strong foundation in Data Structures and Algorithms. 💻 Skilled in C , C++, Python, HTML, CSS, JavaScript and MERN stack.
 Enthusiastic about Competitive Programming, problem-solving and exploring new technologies
